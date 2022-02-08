@@ -1,4 +1,4 @@
-# test-smart-gang
+# Beer-helper
 
 ## Project setup
 ```
